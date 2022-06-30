@@ -1,0 +1,26 @@
+# 1. You Create GitHub Account 
+# 2. Create New Repository
+# 3. Go To Terminial
+# 4. Check GitHub Version > git --version
+# 5. Set User Name > git config --global user.name "github username"
+# 6. Set User Email > git config --global email.name "github email"
+# 7. List > git config --list
+# 8. Check Git Created > ls -al
+# 9. Show Full Details (.gitconfig)
+#10. You Check Created Or Not > gedit .gitconfig
+#11. Then You Close Gedit 
+#12.You Make One Directory > mkdir name
+#13.You Go To The Directory > cd name
+#14.Then You Go To The Git Hub You Copy Link the Your Created Repository
+#15.Then Install It > git clone paste link
+#16.Then You Go to The File > cd name
+#17.Then You Create One File Or scripts
+#18.Then You Check Git Status > git status
+#19.Then You add Git Status > git add name.txt
+#20.Then You Add Git On Online Useing Terminal > git commit -m "my program" name.txt
+#21.then You Add Other Command > git push -u origin master
+#22. Then ask passwd you put github username  passw
+#23.its will be added now 
+
+#     Enjoy!!!!!!
+ 
