@@ -11,16 +11,15 @@
 #11. Then You Close Gedit 
 #12.You Make One Directory > mkdir name
 #13.You Go To The Directory > cd name
-#14.Then You Go To The Git Hub You Copy Link the Your Created Repository
-#15.Then Install It > git clone paste link
-#16.Then You Go to The File > cd name
-#17.Then You Create One File Or scripts
-#18.Then You Check Git Status > git status
-#19.Then You add Git Status > git add name.txt
-#20.Then You Add Git On Online Useing Terminal > git commit -m "my program" name.txt
-#21.then You Add Other Command > git push -u origin master
-#22. Then ask passwd you put github username  passw
-#23.its will be added now 
+#14.git init
+#15.git remote add origin  https://github.com/your_username/myproject.git
+#16.git add helloworld.c
+#17.git commit -m ‘your_message’
+#18.git push origin master
+Username for ‘ https://github.com ‘: your_username
+
+Password for ‘ https://your_username@github.com ‘ : *******
+
 
 #     Enjoy!!!!!!
  
